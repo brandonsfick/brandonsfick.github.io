@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Activity 1: Basic HTML Bio</title>
+</head
+<body>
+<section id="multimedia" class="four"> 
+    <div class="container"> <header> <h2>Instructional Design</h2> </header> 
+      <div class="imageRowLeft"> <img alt="imageOne" src="images/photo-1.jpg"> 
+      </div> 
+      <div class="imageRowLeft"> <img alt="imageTwo" src="images/photo-2.jpg"> 
+      </div> 
+      <p>Above are photos of a video capturing studio with minimal costs, making it affordable for limited budget institutions.</p> 
+      <div class="pillar"> 
+        <div class="rightAreaOp"> <img alt="Video One" src="images/1.jpg"> 
+        </div> 
+        <div class="leftAreaOp"> <h3>Green Screen Promo</h3> 
+          <p>A promotional video used in our college to promote the use of video capturing in our online, summer, and flipped classrooms. A team member I managed, Meredith Jones, developed and shot this video after our brainstorming session to spread the news of our new studio.</p> <a target="_blank" class="button scrolly smallerSize" href="https://youtu.be/KyHG_WekuBo">Watch Video</a> 
+        </div> 
+      </div> <hr class="stlyeLine"> 
+      <div class="pillar"> 
+        <div class="rightAreaOp"> <img alt="videoOne" src="images/2.jpg"> 
+        </div> 
+        <div class="leftAreaOp"> <h3>Brandon Fick - Course Introduction Video</h3> 
+          <p>An introductory video for my restaurant operations management course. This video was used to introduce myself, familiarize students with my expectations, and to set the standards for my course.</p> <a target="_blank" class="button scrolly smallerSize" href="https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/1067282/uiconf_id/25635712/entry_id/0_k641qnx2/embed/dynamic">Watch Video</a> 
+        </div> 
+      </div> <hr class="stlyeLine"> 
+      <div class="pillar"> 
+        <div class="rightAreaOp"> <img alt="videoOne" src="images/3.jpg"> 
+        </div> 
+        <div class="leftAreaOp"> <h3>Eric Aldrich Meteorology Self-paced Course</h3> 
+          <p>This video was the first take on numerous videos used to introduce each module for a self-paced introduction to meteorology course. Each video was used to familiarize the students with the learning objectives for the particular module. My team designed it to build student engagement, which can be lacking in self-pace courses.</p> <a target="_blank" class="button scrolly smallerSize" href="https://youtu.be/hcrGJAlwgGw">Watch Video</a> 
+        </div> <hr class="stlyeLine"> 
+        <div class="pillar"> 
+          <div class="rightAreaOp"> <img alt="videoOne" src="images/4.jpg"> 
+          </div> 
+          <div class="leftAreaOp"> <h3>Dr. Amanda Alexander</h3> 
+            <p>Dr. Alexander uses videos in her online course to provide a visual form of communication with her online students. Once a module we would discuss learning outcomes and areas students need to strengthen their understanding of content. She would then communicate that in her videos.</p> <a target="_blank" class="button scrolly smallerSize" href="https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/1067282/uiconf_id/25635712/entry_id/0_619bndng/embed/dynamic">Watch Video</a> 
+          </div> 
+        </div> 
+      </div> 
+    </div> </section>
+    
+  </body>
+ </html>
